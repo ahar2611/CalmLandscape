@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0.0",
         "name": "CalmLandscape",
-        "author": "Lanney"
+        "author": "Lanney",
+        "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/CalmLandscape\/main\/CalmLandscape.json"
     },
     "background": {
         "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/912641208550039572\/Landscape.jpg"
