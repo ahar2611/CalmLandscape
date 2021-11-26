@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "version": "1.0.0",
+        "version": "1.0.1",
         "name": "CalmLandscape",
         "author": "Lanney",
         "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/CalmLandscape\/main\/CalmLandscape.json"
