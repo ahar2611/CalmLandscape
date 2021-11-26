@@ -6,7 +6,8 @@
         "updater": "https:\/\/raw.githubusercontent.com\/ahar2611\/CalmLandscape\/main\/CalmLandscape.json"
     },
     "background": {
-        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/912641208550039572\/Landscape.jpg"
+        "url": "https:\/\/media.discordapp.net\/attachments\/803090285470154755\/912641208550039572\/Landscape.jpg",
+        "blur_radius": 3
     },
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/803090285470154755\/912657567010918420\/Rubik-Medium.ttf"
@@ -17,14 +18,14 @@
         "input_background": 1040187393,
         "accent": -2260368,
         "mention_highlight": 652051056,
-        "active_channel": 2115838785
+        "active_channel": 2118265900
     },
     "colors": {
         "link": -10191147,
         "primary_dark_300": -5028782,
         "primary_dark_200": -3032900,
         "primary_dark_400": -7827310,
-        "primary_dark_800": 385875968,
+        "primary_dark_800": 838860800,
         "uikit_btn_bg_color_selector_red": -5028782,
         "uikit_settings_item_text_color_dark": -3032900
     },
